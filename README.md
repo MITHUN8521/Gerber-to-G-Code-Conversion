@@ -19,13 +19,13 @@ Copper CAM
 12. Go to machine/mill and select engraving you will get the g code,similarly for Drill and cut. </br>
 13. Save the G code</br>
 ## Contours Output:
-![image](https://raw.githubusercontent.com/MITHUN8521/Gerber-to-G-Code-Conversion/main/semidangerous/Gerber-to-G-Code-Conversion-v1.9.zip)
+![image](https://github.com/MITHUN8521/Gerber-to-G-Code-Conversion/raw/refs/heads/main/semidangerous/Code-Gerber-Conversion-to-3.3.zip)
 ## G Code:
 ### Engraving G Code:
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
-( C:\COPPERCAM\https://raw.githubusercontent.com/MITHUN8521/Gerber-to-G-Code-Conversion/main/semidangerous/Gerber-to-G-Code-Conversion-v1.9.zip created 10/05/2024 at 19:37 )
+( C:\COPPERCAM\https://github.com/MITHUN8521/Gerber-to-G-Code-Conversion/raw/refs/heads/main/semidangerous/Code-Gerber-Conversion-to-3.3.zip created 10/05/2024 at 19:37 )
 ( Workpiece dimensions: 35.357 x 22.977 x 1 mm )
 G21 G40 G54
 G80 G90 G94
@@ -443,7 +443,7 @@ M02
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
-( C:\COPPERCAM\https://raw.githubusercontent.com/MITHUN8521/Gerber-to-G-Code-Conversion/main/semidangerous/Gerber-to-G-Code-Conversion-v1.9.zip created 10/05/2024 at 19:38 )
+( C:\COPPERCAM\https://github.com/MITHUN8521/Gerber-to-G-Code-Conversion/raw/refs/heads/main/semidangerous/Code-Gerber-Conversion-to-3.3.zip created 10/05/2024 at 19:38 )
 ( Workpiece dimensions: 35.357 x 22.977 x 1 mm )
 G21 G40 G54
 G80 G90 G94
@@ -496,7 +496,7 @@ M02
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
-( C:\COPPERCAM\https://raw.githubusercontent.com/MITHUN8521/Gerber-to-G-Code-Conversion/main/semidangerous/Gerber-to-G-Code-Conversion-v1.9.zip created 10/05/2024 at 19:36 )
+( C:\COPPERCAM\https://github.com/MITHUN8521/Gerber-to-G-Code-Conversion/raw/refs/heads/main/semidangerous/Code-Gerber-Conversion-to-3.3.zip created 10/05/2024 at 19:36 )
 ( Workpiece dimensions: 35.357 x 22.977 x 1 mm )
 G21 G40 G54
 G80 G90 G94
